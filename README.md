@@ -7,7 +7,7 @@
   <img alt="Lichi" style="width: 75px; vertical-align: middle;" src="https://github.com/user-attachments/assets/3fb92c05-98ed-4b96-80de-a42669629901" />
 </h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center" style="margin: 0;">
   <a href="https://t.me/mikhailoffs" target="_blank" ><img alt="Telegram" style="width: 25px; display: inline-block;" src="https://user-images.githubusercontent.com/32201475/195403345-1fdc52ff-8aca-4f0a-9d44-423d98c5396a.svg" /></a>
