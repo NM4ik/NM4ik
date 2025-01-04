@@ -9,16 +9,10 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://t.me/mikhailoffs" target="_blank" style="text-decoration: none;">
-     <img alt="Telegram" style="width: 22px;" src="https://user-images.githubusercontent.com/32201475/195403345-1fdc52ff-8aca-4f0a-9d44-423d98c5396a.svg" />
-  </a>
+<p align="center" style="margin: 0;">
+  <a href="https://t.me/mikhailoffs" target="_blank" ><img alt="Telegram" style="width: 25px; display: inline-block;" src="https://user-images.githubusercontent.com/32201475/195403345-1fdc52ff-8aca-4f0a-9d44-423d98c5396a.svg" /></a>
   <img width="20" />
-  <a href="https://vk.com/nmihailov89" target="_blank" style="text-decoration: none;">
-      <img alt="VK" style="width: 22px;" src="https://user-images.githubusercontent.com/32201475/195403707-917b58cb-1f85-45c6-909a-6d1e73e3f252.svg" />
-  </a>
+  <a href="https://vk.com/nmihailov89" target="_blank"><img alt="VK" style="width: 25px; display: inline-block;" src="https://user-images.githubusercontent.com/32201475/195403707-917b58cb-1f85-45c6-909a-6d1e73e3f252.svg" /></a>
   <img width="20" />
-  <a href="mailto:n.mikhailov55@gmail.com" style="text-decoration: none;">
-      <img alt="Gmail" style="width: 22px;" src="https://user-images.githubusercontent.com/32201475/195403718-9891e113-9ab1-4065-975b-bf26dc64eedc.svg" />
-  </a>
+  <a href="mailto:n.mikhailov55@gmail.com" target="_blank"><img alt="Gmail" style="width: 25px; display: inline-block;" src="https://user-images.githubusercontent.com/32201475/195403718-9891e113-9ab1-4065-975b-bf26dc64eedc.svg" /></a>
 </p>
